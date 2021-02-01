@@ -8,7 +8,7 @@ Recommender System, Graph Embedding
 ![image](https://user-images.githubusercontent.com/68312164/103968901-1abece80-51a8-11eb-9f6b-1fab04c65bbe.png)  
 
 ## Objective  
-Build Recommender Systems using Graph Embedding Methodology   
+Build Recommender Systems using Graph Embedding methodology   
 
 ## Models
 
