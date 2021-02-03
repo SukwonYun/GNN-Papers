@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
 
 import time
 import argparse
@@ -12,6 +10,7 @@ import torch.optim as optim
 
 from utils import load_data, accuracy, mkdir_p
 from models import GCN
+
 
 #Training Settings
 parser = argparse.ArgumentParser()
