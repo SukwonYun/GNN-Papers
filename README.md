@@ -21,7 +21,7 @@ Build Recommender Systems using Graph Embedding methodology
 | 2017 | [GRAPH ATTENTION NETWORKS](https://github.com/SukwonYun/RecSys-Papers/files/5865107/GAT.pdf)| [Presentation](https://github.com/SukwonYun/GNN-Papers/files/5890514/GAT_Sukwon.Yun.pdf) | [GAT](https://github.com/SukwonYun/GNN-Papers/tree/master/GAT)
 | 2015 | [LINE: Large-scale Information Network Embedding](https://github.com/SukwonYun/RecSys-Papers/files/5865108/LINE.pdf)| | LINE
 | 2017 | [metapath2vec: Scalable Representation Learning for Heterogeneous Networks](https://github.com/SukwonYun/RecSys-Papers/files/5865109/metapath2vec.pdf)| | metapath2vec
-| 2019 | [DEEP GRAPH INFOMAX](https://github.com/SukwonYun/RecSys-Papers/files/5865110/DGI.pdf)| | DGI
+| 2019 | [DEEP GRAPH INFOMAX](https://github.com/SukwonYun/RecSys-Papers/files/5865110/DGI.pdf)| | [DGI](https://github.com/SukwonYun/GNN-Papers/tree/master/DGI)
 | 2017 | [Inductive Representation Learning on Large Graphs](https://github.com/SukwonYun/RecSys-Papers/files/5865113/GraphSAGE.pdf)| | GraphSAGE
 | 2013 | [Auto-Encoding Variational Bayes](https://github.com/SukwonYun/RecSys-Papers/files/5865115/VAE.pdf)| | VAE
 | 2016 | [Variational Graph Auto-Encoders](https://github.com/SukwonYun/RecSys-Papers/files/5865116/GVAE.pdf)| | GVAE
