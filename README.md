@@ -10,6 +10,7 @@
 | ICLR 2019 | [Deep Graph Infomax](https://arxiv.org/abs/1809.10341)| - | [DGI](https://github.com/SukwonYun/GNN-Papers/tree/master/DGI)
 
 ### GCN
+![image](https://user-images.githubusercontent.com/68312164/174877853-1c044c56-3d6c-4029-af50-cd455c7e1ce8.png)
 
 ### GAT
 
