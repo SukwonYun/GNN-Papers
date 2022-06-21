@@ -13,5 +13,7 @@
 <center><img src="https://user-images.githubusercontent.com/68312164/174877853-1c044c56-3d6c-4029-af50-cd455c7e1ce8.png" width="500" height="500"></center>
 
 ### GAT
+<center><img src="https://user-images.githubusercontent.com/68312164/174878843-7228819c-9976-4155-82f6-38304ee7a5ea.png)" width="500" height="500"></center>
 
 ### DGI
+<center><img src="https://user-images.githubusercontent.com/68312164/174879007-9a0f77c8-bd1e-4eda-ba04-40518d8bd745.png)" width="500" height="500"></center>
