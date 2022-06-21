@@ -1,7 +1,7 @@
-### Implementation and Summary of key GNN Papers
+## Implementation and Summary of key GNN Papers
 
 
-## Models
+### Models
 
 | Conf & Year | Paper | Summary | Code |
 | :---: | --- | :---: | :---: |
