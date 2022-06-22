@@ -13,7 +13,7 @@
 <center><img src="https://user-images.githubusercontent.com/68312164/174877853-1c044c56-3d6c-4029-af50-cd455c7e1ce8.png" width="200" height="150"></center>
 
 ### GAT
-<center><img src="https://user-images.githubusercontent.com/68312164/174878843-7228819c-9976-4155-82f6-38304ee7a5ea.png)" width="200" height="150"></center>
+<center><img src="https://user-images.githubusercontent.com/68312164/174926405-207cbba4-5c2e-4be9-b14f-4807c8d6339c.png" width="200" height="150"></center>
 
 ### DGI
-<center><img src="https://user-images.githubusercontent.com/68312164/174879007-9a0f77c8-bd1e-4eda-ba04-40518d8bd745.png)" width="200" height="150"></center>
+<center><img src="https://user-images.githubusercontent.com/68312164/174926428-9897ad19-0450-4119-8a5c-31f55142b3f3.png" width="200" height="150"></center>
